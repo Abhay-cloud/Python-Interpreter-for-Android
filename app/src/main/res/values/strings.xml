@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PyCompiler</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
